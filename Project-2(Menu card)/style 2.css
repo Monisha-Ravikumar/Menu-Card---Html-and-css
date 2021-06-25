@@ -1,0 +1,51 @@
+body{
+    background-color: #dadada;
+}
+a:hover{
+    color: #f78f07;
+}
+a:active{
+    color: #483D8B;
+}
+.container{
+    width: 80%;
+    margin:auto;
+}
+.box-1 ul{
+    font-family: 'Times New Roman', Times, serif;
+    font-size:x-large;
+    font-style:oblique;
+}
+.block h2{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    text-decoration: underline;
+    text-transform: capitalize;
+
+}
+.box-2 {
+    border: 4px  ;
+    padding: 20px;
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    word-spacing: 0.6em ;
+}
+.catagoreies{
+    border: 2px;
+    padding: 1px;
+    margin: 20px;
+
+}
+.catagoreies h2{
+    font-family:'Times New Roman', Times, serif;
+    font-style: normal;
+    text-decoration: none;
+    text-transform: capitalize;
+    font-size: 30;
+}
+.catagoreies ul{
+    list-style:circle;
+    padding-left: 100px;
+    font-size: 25;
+}
